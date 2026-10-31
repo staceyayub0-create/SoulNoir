@@ -1,0 +1,11 @@
+*.php
+*.sqlite
+*.txt
+*.htm
+*.html
+!index.html
+!profile.html
+!education.html
+!experience.html
+!skills.html
+!career.html
